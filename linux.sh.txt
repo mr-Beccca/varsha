@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Name: Varsha V"
+echo "Roll Number: 63"
+echo "Class:EV4"
+echo "     DATE & TIME INFORMATION"
+echo "Date & Time : $(date)"
